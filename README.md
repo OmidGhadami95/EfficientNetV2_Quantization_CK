@@ -1,7 +1,7 @@
 # EfficientNetV2_Quantization_CKplus tensorflow keras
  EfficientNetV2 (Efficientnetv2-b2) and quantization int8 and fp32 (QAT and PTQ) on CK+ dataset . fine-tuning, augmentation, solving imbalanced dataset and so on.
  
-Real-time facial emotion recognition using EfficientNetV2 CNN and quantization on CK+ dataset. This code includes:
+Real-time facial emotion recognition using EfficientNetV2 CNN and quantization on CK+ dataset. This code includes:  
 1- data loading steps (download and split dataset).  
 2- preprocessing steps on CK+ dataset (normalization, resizing, augmentation and solving imbalanced dataset problem).  
 3- fine-tuning (using pre-trained weights from imagenet dataset as initial weights for training step).  
